@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs & MLflow
+logs/
+mlruns/
+*.log
+
+# Virtual env
+.venv/
+env/
+venv/
+*.egg-info/
+*.egg
+
+# System
+.DS_Store
+Thumbs.db
