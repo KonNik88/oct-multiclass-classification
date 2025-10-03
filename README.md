@@ -9,7 +9,7 @@ Multiclass classification of **Optical Coherence Tomography (OCT)** retinal imag
 ## Project Overview
 This project implements deep learning models for OCT image classification.  
 It includes:
-- Training with **ResNet18** baseline (extendable to other architectures such as EfficientNet, ConvNeXt, ViT).
+- Training with **ResNet50** baseline (extendable to other architectures such as EfficientNet, ConvNeXt, ViT).
 - Metrics logging with **MLflow**.
 - Model interpretability with **Grad-CAM**.
 - Loss surface visualization.
