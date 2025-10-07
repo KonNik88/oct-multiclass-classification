@@ -1,4 +1,10 @@
 # OCT Multiclass Classification
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)](https://pytorch.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-logging-informational)](https://mlflow.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-Completed-brightgreen)]()
 
 Multiclass classification of **Optical Coherence Tomography (OCT)** retinal images into four classes:
 - CNV (Choroidal Neovascularization)
